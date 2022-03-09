@@ -1,0 +1,23 @@
+* {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.recipe {
+    margin-top: 50px;
+    width: 200px;
+    background-color: lightblue;
+    text-align: center;
+}
+a {
+    border: 0px;
+    text-align: center;
+    color: black;
+}
+.heading {
+background-color: forestgreen;
+text-align: center;
+}
+html {
+    background-color: lightgray;
+}
